@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Documentos\docs\arqui\Layer_Application\grocery_start\env"
+VIRTUAL_ENV="C:\Users\femuh\Documents\GitHub\LayerAplication\grocery_start\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

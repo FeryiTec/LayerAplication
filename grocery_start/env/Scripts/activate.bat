@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Documentos\docs\arqui\Layer_Application\grocery_start\env
+set VIRTUAL_ENV=C:\Users\femuh\Documents\GitHub\LayerAplication\grocery_start\env
 
 if not defined PROMPT set PROMPT=$P$G
 
