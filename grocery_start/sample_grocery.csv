@@ -1,0 +1,25 @@
+SKU,Name,Description,Price,Quantity,Expiration Date
+A123,Apples,Fresh apples,1.99,10,2023-09-15
+B456,Oranges,Natual oranges,2.99,20,2023-09-16
+C789,Milk,Whole milk,3.99,30,2023-09-17
+D012,Eggs,1 dozen eggs,5.99,40,2023-09-18
+E234,Bread,White bread,2.99,50,2023-09-19
+F345,Soda,12 pack soda,5.99,60,2023-09-20
+G456,Chips,Salty snacks,1.99,70,2023-09-21
+H567,Candy,Sweet treats,1.99,80,2023-09-22
+I678,Water,Bottled water,1.99,90,2023-09-23
+J789,Coffee,Ground coffee,4.99,100,2023-09-24
+K012,Tea,Loose leaf tea,3.99,110,2023-09-25
+L123,Cereal,Breakfast cereal,3.99,120,2023-09-26
+M234,Yogurt,Greek yogurt,1.99,130,2023-09-27
+N345,Cookies,Chocolate chip cookies,2.99,140,2023-09-28
+O456,Ice cream,Vanilla ice cream,3.99,150,2023-09-29
+P567,Pizza,Frozen pizza,5.99,160,2023-10-01
+Q678,Sandwiches,Ready-made sandwiches,4.99,170,2023-10-02
+R789,Salads,Ready-made salads,5.99,180,2023-10-03
+S012,Soup,Ready-made soup,3.99,190,2023-10-04
+T123,Fruit,Fresh fruit,1.99,200,2023-10-05
+U124,Vegetables,Fresh vegetables,2.99,210,2023-10-06
+V125,Dairy,Cheese,4.99,220,2023-10-07
+W126,Meat,Chicken,5.99,230,2023-10-08
+X127,Fish,Salmon,6.99,240,2023-10-09
